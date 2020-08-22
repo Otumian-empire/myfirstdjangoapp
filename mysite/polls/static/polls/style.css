@@ -1,0 +1,13 @@
+body {
+    background: white url("https://cdn.pixabay.com/photo/2020/07/07/15/38/downton-abbey-5380907__340.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /*https://css-tricks.com/perfect-full-page-background-image/*/
+}
+
+
+li a {
+    color: green;
+}
